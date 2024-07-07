@@ -1,0 +1,6 @@
+cookies.json
+NEXT_CURSOR
+.env
+
+/output
+!/output/.gitkeep
